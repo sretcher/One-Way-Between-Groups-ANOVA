@@ -1,1 +1,0 @@
-# One-Way-Between-Groups-ANOVA
