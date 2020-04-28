@@ -1,6 +1,6 @@
 ---
 title: '**One-Way Between-Groups ANOVA**'
-output: html_document
+output: rmarkdown::github_document
 ---
 
 A clinical study was conducted to assess the effect of three formulations of the same drug on reducing cholesterol. The formulations were 20mg at once (1time), 10mg twice a day (2times), and 5mg four times a day (4times). In addition, two competing drugs were used as a control group (drugD and drugE). Fifty patients were randomly selected for the study and 10 patients were randomly assigned to each treatment. The purpose of the study was to find which of the formulations, if any, were the most effective at reducing cholesterol and how these formulations compare with the existing drugs. We will do this by conducting a One-Way ANOVA F-Test to compare treatment means in a Completely Randomized Design. 
